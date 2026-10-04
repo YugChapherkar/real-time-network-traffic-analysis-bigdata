@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Network Traffic Analysis Using Big Data",
+  "description": "Semester Big Data Analysis (BDA) platform featuring Hadoop HDFS distributed storage, MapReduce execution visualizer, Apache Hive analytics, Spark Structured Streaming, live packet capture, and network anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
